@@ -1,0 +1,40 @@
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Audio\stingerShot.xnb
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Audio\smokeShot.xnb
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Audio\explosion.xnb
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Audio\buzz.xnb
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\BeeShot.xnb
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\BeeStrip.xnb
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\SmokeStrip.xnb
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\SmokeSprayer.xnb
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\Hive1.xnb
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\Hive2.xnb
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\Bee.xnb
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\Smoke.xnb
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\SmokeSprayerStrip.xnb
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\GameFont.xnb
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Swarm.exe
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Swarm.pdb
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\obj\x86\Debug\Swarm.csprojResolveAssemblyReference.cache
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\obj\x86\Debug\Swarm.exe
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\obj\x86\Debug\Swarm.pdb
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Audio\stingerShot.xnb
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Audio\smokeShot.xnb
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Audio\explosion.xnb
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Audio\buzz.xnb
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\BeeShot.xnb
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\BeeStrip.xnb
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\SmokeStrip.xnb
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\SmokeSprayer.xnb
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\Hive1.xnb
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\Hive2.xnb
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\Bee.xnb
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\Smoke.xnb
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\SmokeSprayerStrip.xnb
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\GameFont.xnb
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Swarm.exe
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Swarm.pdb
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\obj\x86\Debug\Swarm.csprojResolveAssemblyReference.cache
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\obj\x86\Debug\Swarm.exe
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\obj\x86\Debug\Swarm.pdb

@@ -1,0 +1,2 @@
+C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\Content\obj\x86\Debug\SwarmContent.contentprojResolveAssemblyReference.cache
+E:\Users\Nye\Documents\Files\Files - Programming\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\Content\obj\x86\Debug\SwarmContent.contentprojResolveAssemblyReference.cache

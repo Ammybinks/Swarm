@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Audio\stingerShot.wav</Source>
+      <Name>Audio\stingerShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Audio\stingerShot.xnb</Output>
+      <Time>2010-02-10T17:57:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\smokeShot.wav</Source>
+      <Name>Audio\smokeShot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Audio\smokeShot.xnb</Output>
+      <Time>2010-03-23T16:05:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\explosion.wav</Source>
+      <Name>Audio\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Audio\explosion.xnb</Output>
+      <Time>2010-02-09T14:28:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\buzz.wav</Source>
+      <Name>Audio\buzz</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Audio\buzz.xnb</Output>
+      <Time>2010-04-07T00:02:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\BeeShot.png</Source>
+      <Name>Images\BeeShot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\BeeShot.xnb</Output>
+      <Time>2010-02-21T22:59:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\BeeStrip.png</Source>
+      <Name>Images\BeeStrip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\BeeStrip.xnb</Output>
+      <Time>2010-02-22T00:13:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SmokeStrip.png</Source>
+      <Name>Images\SmokeStrip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\SmokeStrip.xnb</Output>
+      <Time>2010-02-21T21:38:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SmokeSprayer.png</Source>
+      <Name>Images\SmokeSprayer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\SmokeSprayer.xnb</Output>
+      <Time>2010-02-21T22:06:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Hive1.png</Source>
+      <Name>Images\Hive1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\Hive1.xnb</Output>
+      <Time>2010-02-21T22:49:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Hive2.png</Source>
+      <Name>Images\Hive2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\Hive2.xnb</Output>
+      <Time>2010-02-21T22:49:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bee.png</Source>
+      <Name>Images\Bee</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\Bee.xnb</Output>
+      <Time>2010-04-05T23:03:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Smoke.png</Source>
+      <Name>Images\Smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\Smoke.xnb</Output>
+      <Time>2010-04-07T02:44:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SmokeSprayerStrip.png</Source>
+      <Name>Images\SmokeSprayerStrip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\Images\SmokeSprayerStrip.xnb</Output>
+      <Time>2010-04-16T19:54:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameFont.spritefont</Source>
+      <Name>GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\GameFont.xnb</Output>
+      <Time>2010-02-21T12:35:16+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\TeenCoder\Game Programming\Activity Starters\Swarm\Swarm\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-27T22:51:55.1078598+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
